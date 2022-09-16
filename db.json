@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "name": "asdasd",
+      "budget": "1312312",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "asdsada",
+      "budget": "12312",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 123,
+      "services": [
+        {
+          "name": "Mateus Alves de Almeida",
+          "cost": "123",
+          "description": "ASDASDAS",
+          "id": "18b8e774-8e80-46fc-8408-712b1f8bbc91"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "category": {
+        "id": "2",
+        "name": "Infra"
+      },
+      "budget": "12312",
+      "name": "adasd",
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "mateusdasddasdasadaasd",
+      "budget": "42",
+      "category": {
+        "id": "3",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "Infra"
+    },
+    {
+      "id": 3,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 4,
+      "name": "Design"
+    },
+    {
+      "id": 5,
+      "name": "Planejamento"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+.cards_container{
+    justify-content: initial;
+    flex-wrap: wrap;
+    display: flex;
+}

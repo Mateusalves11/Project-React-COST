@@ -1,0 +1,68 @@
+.project{
+    font-size: 30px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+
+.projectService{
+    font-size: 30px;
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.serviceContainer{
+    border: 1px solid;
+}
+
+.project h1{
+    background-color: #353434;
+    color: #fafd20;
+    padding: 15px;
+}
+.projectService button{
+    background-color: #353434;
+    color: #ffffff;
+    padding: 9px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: ease-in-out 0.3s;
+}
+
+.project button{
+    background-color: #353434;
+    color: #ffffff;
+    padding: 9px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: ease-in-out 0.3s;
+}
+
+.project button:hover{
+    color: rgb(255, 251, 0);
+}
+
+.projectService button:hover{
+    color: rgb(255, 251, 0);
+}
+
+.infos {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 40px;
+    font-size: 25px;
+    color: rgb(117, 117, 117);
+}
+
+.infos span{
+    font-weight: bold;
+    color: black;
+    letter-spacing: 3px;
+}
