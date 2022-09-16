@@ -1,3 +1,24 @@
+#Projeto criado por MATEUS ALVES
+
+Projeto com intuito de estudar as funcionalidade do REAT
+foi usado HOOKS, componentes, funções, Api's e ETC
+
+para rodar o projeto use no TERMINAL:
+
+#YARN INSTALL
+#YARN START
+#YARN RUN BACKEND
+
+
+
+
+.
+.
+.
+.
+.
+.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
